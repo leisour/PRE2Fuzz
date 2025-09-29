@@ -4,7 +4,7 @@ PRE2Fuzz is for bridging protocol reverse engineering and protocol fuzzing. It i
 ```
 pre2fuzz
 ├──pre_tools: Protocol reverse-engineering tools
-│   ├──netolier: Scripts and commands for Netplier
+│   ├──netplier: Scripts and commands for Netplier
 │   └── ...
 │
 ├── subjects: contains different protocol implementations
