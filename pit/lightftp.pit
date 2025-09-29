@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Peach xmlns="http://peachfuzzer.com/2012/Peach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://peachfuzzer.com/2012/Peach ../peach.xsd">
+	<DataModel name="DataModel1">
+		<Block name="Block">
+			<Number name="field0" size="160" value="323230202876734654506420332e302e35290d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel2">
+		<Block name="Block">
+			<Number name="field0" size="160" value="323230202876734654506420332e302e35290d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel3">
+		<Block name="Block">
+			<Number name="field0" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="16" value="506c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="61" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="160" value="7365207370656369667920746865207061737377" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6f72" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel4">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="30" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="4c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="67" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="80" value="696e2073756363657373" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6675" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="6c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel5">
+		<Block name="Block">
+			<Number name="field0" size="8" value="35" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="30" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="41434354206e" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="74" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="80" value="20696d706c656d656e74" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel6">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="47" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6279" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel7">
+		<Block name="Block">
+			<Number name="field0" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="16" value="506c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="61" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="160" value="7365207370656369667920746865207061737377" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6f72" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel8">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="30" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="4c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="67" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="80" value="696e2073756363657373" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6675" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="6c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel9">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="47" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6279" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel10">
+		<Block name="Block">
+			<Number name="field0" size="152" value="32313520554e495820547970653a204c380d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel11">
+		<Block name="Block">
+			<Number name="field0" size="152" value="32313520554e495820547970653a204c380d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel12">
+		<Block name="Block">
+			<Number name="field0" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="45" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="52" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel13">
+		<Block name="Block">
+			<Number name="field0" size="8" value="50" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="41" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel14">
+		<Block name="Block">
+			<Number name="field0" size="8" value="41" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="43" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="43" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="54" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel15">
+		<Block name="Block">
+			<Number name="field0" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="45" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="52" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel16">
+		<Block name="Block">
+			<Number name="field0" size="8" value="50" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="41" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel17">
+		<Block name="Block">
+			<Number name="field0" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="59" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel18">
+		<Block name="Block">
+			<Number name="field0" size="8" value="51" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="49" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel19">
+		<Block name="Block">
+			<Number name="field0" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="59" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel20">
+		<Block name="Block">
+			<Number name="field0" size="8" value="51" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="49" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<StateModel name="StateModel" initialState="State">
+		<State name="State">
+			<Action type="output">
+				<DataModel ref="DataModel1" />
+				<DataModel ref="DataModel2" />
+				<DataModel ref="DataModel3" />
+				<DataModel ref="DataModel4" />
+				<DataModel ref="DataModel5" />
+				<DataModel ref="DataModel6" />
+				<DataModel ref="DataModel7" />
+				<DataModel ref="DataModel8" />
+				<DataModel ref="DataModel9" />
+				<DataModel ref="DataModel10" />
+				<DataModel ref="DataModel11" />
+				<DataModel ref="DataModel12" />
+				<DataModel ref="DataModel13" />
+				<DataModel ref="DataModel14" />
+				<DataModel ref="DataModel15" />
+				<DataModel ref="DataModel16" />
+				<DataModel ref="DataModel17" />
+				<DataModel ref="DataModel18" />
+				<DataModel ref="DataModel19" />
+				<DataModel ref="DataModel20" />
+			</Action>
+		</State>
+	</StateModel>
+	<Test name="Default">
+		<Agent ref="LinAgent"/>
+		<StateModel ref="StateModel"/>
+		<Publisher class="TcpClient" name="client">
+			<Param name="Host" value="127.0.0.1"/>
+			<Param name="Port" value="21"/>
+		</Publisher>
+		<Logger class="File">
+			<Param name="Path" value="/root/logs"/>
+		</Logger>
+	</Test>
+	<Agent name="LinAgent">
+		<Monitor class="Process">
+			<Param name="Executable" value="/root/protocolFuzz/ftp/LightFTP/Source/Release/fftp"/>
+			<Param name="Arguments" value=" /root/protocolFuzz/ftp/LightFTP/Bin/fftp.conf" />
+			<Param name="RestartOnEachTest" value="true" />
+			<Param name="Faultonearlyexit" value="false" />
+		</Monitor>
+	</Agent>
+</Peach>
+<?xml version="1.0" encoding="utf-8"?>
+<Peach xmlns="http://peachfuzzer.com/2012/Peach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://peachfuzzer.com/2012/Peach ../peach.xsd">
+	<DataModel name="DataModel1">
+		<Block name="Block">
+			<Number name="field0" size="160" value="323230202876734654506420332e302e35290d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel2">
+		<Block name="Block">
+			<Number name="field0" size="160" value="323230202876734654506420332e302e35290d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel3">
+		<Block name="Block">
+			<Number name="field0" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="16" value="506c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="61" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="160" value="7365207370656369667920746865207061737377" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6f72" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel4">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="30" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="4c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="67" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="80" value="696e2073756363657373" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6675" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="6c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel5">
+		<Block name="Block">
+			<Number name="field0" size="8" value="35" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="30" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="41434354206e" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="74" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="80" value="20696d706c656d656e74" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel6">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="47" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6279" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel7">
+		<Block name="Block">
+			<Number name="field0" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="16" value="506c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="61" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="160" value="7365207370656369667920746865207061737377" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6f72" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel8">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="33" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="30" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="4c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="67" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="80" value="696e2073756363657373" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6675" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="6c" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel9">
+		<Block name="Block">
+			<Number name="field0" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="32" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="31" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="20" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="8" value="47" valueType="hex" endian="network" mutable="true" />
+			<Number name="field5" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field6" size="8" value="6f" valueType="hex" endian="network" mutable="true" />
+			<Number name="field7" size="8" value="64" valueType="hex" endian="network" mutable="true" />
+			<Number name="field8" size="16" value="6279" valueType="hex" endian="network" mutable="true" />
+			<Number name="field9" size="8" value="65" valueType="hex" endian="network" mutable="true" />
+			<Number name="field10" size="24" value="2e0d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel10">
+		<Block name="Block">
+			<Number name="field0" size="152" value="32313520554e495820547970653a204c380d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel11">
+		<Block name="Block">
+			<Number name="field0" size="152" value="32313520554e495820547970653a204c380d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel12">
+		<Block name="Block">
+			<Number name="field0" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="45" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="52" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel13">
+		<Block name="Block">
+			<Number name="field0" size="8" value="50" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="41" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel14">
+		<Block name="Block">
+			<Number name="field0" size="8" value="41" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="43" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="43" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="54" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel15">
+		<Block name="Block">
+			<Number name="field0" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="45" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="52" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel16">
+		<Block name="Block">
+			<Number name="field0" size="8" value="50" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="41" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field4" size="48" value="206674700d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel17">
+		<Block name="Block">
+			<Number name="field0" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="59" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel18">
+		<Block name="Block">
+			<Number name="field0" size="8" value="51" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="49" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel19">
+		<Block name="Block">
+			<Number name="field0" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="59" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="53" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<DataModel name="DataModel20">
+		<Block name="Block">
+			<Number name="field0" size="8" value="51" valueType="hex" endian="network" mutable="true" />
+			<Number name="field1" size="8" value="55" valueType="hex" endian="network" mutable="true" />
+			<Number name="field2" size="8" value="49" valueType="hex" endian="network" mutable="true" />
+			<Number name="field3" size="24" value="540d0a" valueType="hex" endian="network" mutable="true" />
+		</Block>
+	</DataModel>
+	<StateModel name="StateModel" initialState="State">
+		<State name="State">
+			<Action type="output">
+				<DataModel ref="DataModel1" />
+				<DataModel ref="DataModel2" />
+				<DataModel ref="DataModel3" />
+				<DataModel ref="DataModel4" />
+				<DataModel ref="DataModel5" />
+				<DataModel ref="DataModel6" />
+				<DataModel ref="DataModel7" />
+				<DataModel ref="DataModel8" />
+				<DataModel ref="DataModel9" />
+				<DataModel ref="DataModel10" />
+				<DataModel ref="DataModel11" />
+				<DataModel ref="DataModel12" />
+				<DataModel ref="DataModel13" />
+				<DataModel ref="DataModel14" />
+				<DataModel ref="DataModel15" />
+				<DataModel ref="DataModel16" />
+				<DataModel ref="DataModel17" />
+				<DataModel ref="DataModel18" />
+				<DataModel ref="DataModel19" />
+				<DataModel ref="DataModel20" />
+			</Action>
+		</State>
+	</StateModel>
+	<Test name="Default">
+		<Agent ref="LinAgent"/>
+		<StateModel ref="StateModel"/>
+		<Publisher class="TcpClient" name="client">
+			<Param name="Host" value="127.0.0.1"/>
+			<Param name="Port" value="21"/>
+		</Publisher>
+		<Logger class="File">
+			<Param name="Path" value="/root/logs"/>
+		</Logger>
+	</Test>
+	<Agent name="LinAgent">
+		<Monitor class="Process">
+			<Param name="Executable" value="/root/protocolFuzz/ftp/LightFTP/Source/Release/fftp"/>
+			<Param name="Arguments" value=" /root/protocolFuzz/ftp/LightFTP/Bin/fftp.conf" />
+			<Param name="RestartOnEachTest" value="true" />
+			<Param name="Faultonearlyexit" value="false" />
+		</Monitor>
+	</Agent>
+</Peach>
