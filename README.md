@@ -28,7 +28,7 @@ pre2fuzz
 Follow the steps below to run and collect experimental results for LightFTP, which is a lightweight File Transfer Protocol (FTP) server. The similar steps should be followed to run experiments on other subjects.
 ## Step-0. Set up environmental variables
 ```
-git clone https://github.com/csu-wingmate/pre2fuzz.git
+git clone https://github.com/leisour/PRE2Fuzz.git
 cd pre2fuzz
 sudo mkdir in
 sudo mkdir pits
